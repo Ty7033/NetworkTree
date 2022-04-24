@@ -6,7 +6,7 @@ import java.util.Scanner;
  * This class sets up the network for the game. It contains a NetworkTree and the main method where user
  * interacts with the program to add or remove NetworkNodes in the system.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class NintendoNetwork
 {
