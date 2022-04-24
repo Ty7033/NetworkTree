@@ -9,7 +9,7 @@ import java.util.Scanner;
  * perform actions such as cutting a cursor or adding a child
  * to the tree of the network.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class NetworkTree
 {
