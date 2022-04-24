@@ -3,7 +3,7 @@ package com.company;
 /**
  * This exception class is thrown to check if the cursor is at the root.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class AtRootException extends Exception
 {
