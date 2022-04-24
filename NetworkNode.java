@@ -4,7 +4,7 @@ package com.company;
  * This class creates a node called NetworkNode that contains information such as the name, type of component
  * is being represented, the parent of the node, an array of children, and the max children a node can have.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class NetworkNode
 {
