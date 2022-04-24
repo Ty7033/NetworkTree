@@ -3,7 +3,7 @@ package com.company;
 /**
  * This exception class is thrown to check if the children array of the NetworkNode is full.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class FullNodeException extends Exception
 {
